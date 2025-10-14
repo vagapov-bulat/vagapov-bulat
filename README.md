@@ -11,12 +11,13 @@
 
 
 
-<h3 align="center">Contacts</h3>
+<h3 align="center">Contacts and Resume</h3>
 
 <p align="center">
   <a href="https://t.me/bulat_vagapov"><img src="https://img.shields.io/badge/telegram-1F4AFE?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
   <a href="mailto:vagapov.bulat.t@yandex.ru"><img src="https://img.shields.io/badge/email-1F4AFE?style=for-the-badge&logo=maildotru&logoColor=white"></img></a>
   <a href="https://vagapovbulat.ru"><img src="https://img.shields.io/badge/website-1F4AFE?style=for-the-badge&logo=googlechrome&logoColor=white"></img></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-8A35DA?style=for-the-badge&logo=readme&logoColor=white"></img></a>
 </p>
 
 
@@ -41,9 +42,12 @@
 ![Static Badge](https://img.shields.io/badge/Qase-E8E7FA?style=for-the-badge&logo=qase&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Statisitca-E8E7FA?style=for-the-badge)
 
-##  Test documentation examples
-
-
+##  Test Artifacts
+<p><a href="#">Web project testing</a> -  functional testing</p>
+<p><a href="#">API Testing</a> - REST via Postman</p>
+<p><a href="#">MySQL</a> - queries and DB validation scripts</p>
+<p><a href="#">Git</a> - basic control commands</p>
+<p><a href="#">Bash</a> - scripts for QA tasks</p>
 
 
 
