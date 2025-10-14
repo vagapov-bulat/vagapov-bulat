@@ -6,7 +6,9 @@
 <a href="README_RU.md"><img width="25" height="512" alt="image" src="https://github.com/user-attachments/assets/d50dd2b5-765e-47f1-be96-c5f408d83852" /></a>
 </p>
 
-<img width="2211" height="565" alt="обложка для github_EN" src="https://github.com/user-attachments/assets/0a865d76-04b2-4a95-bf3c-803f67dde516" />
+<img width="1462" height="374" alt="github-cover-EN" src="https://github.com/user-attachments/assets/0bc2f2f2-ccb7-461c-9577-8cb51fc67f89" />
+
+
 
 
 <h3 align="center">Contacts</h3>
@@ -40,16 +42,7 @@
 ![Static Badge](https://img.shields.io/badge/Statisitca-E8E7FA?style=for-the-badge)
 
 ##  Test documentation examples
-<table>
-  <tr>
-    <td><a href="#"><img width="500" height="200" alt="test-plan" src="https://github.com/user-attachments/assets/ec8c148d-65b6-425d-b1df-b07907d4d77e" /></a></td>
-    <td><a href="#"><img width="500" height="200" alt="checklist" src="https://github.com/user-attachments/assets/ad99e78a-47ac-40cd-ab43-704eb93824f8" /></a></td>
-  </tr>
-  <tr>
-    <td>ff</td>
-    <td>ff</td>
-  </tr>
-</table>
+
 
 
 
