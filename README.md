@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<div align="center">Change readme language<div>
+<div align="center">Change readme language</div>
+<p align="center">
 <a href="README.md"><img width="25"  alt="image" src="https://github.com/user-attachments/assets/22cbb1db-afcd-4584-b7e6-eea384cb3fce" /></a>
 <a href="#"><img width="25" height="512" alt="image" src="https://github.com/user-attachments/assets/d50dd2b5-765e-47f1-be96-c5f408d83852" /></a>
+</p>
 
 <img width="2211" height="674" alt="Image" src="https://github.com/user-attachments/assets/cb7f9c5f-2212-4278-8129-5cac1ded2dea" />
 
