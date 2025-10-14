@@ -6,7 +6,7 @@
 <a href="README_RU.md"><img width="25" height="512" alt="image" src="https://github.com/user-attachments/assets/d50dd2b5-765e-47f1-be96-c5f408d83852" /></a>
 </p>
 
-<img width="1462" height="374" alt="github-cover-EN" src="https://github.com/user-attachments/assets/0bc2f2f2-ccb7-461c-9577-8cb51fc67f89" />
+<a href="#"><img width="1462" height="374" alt="github-cover-EN" src="https://github.com/user-attachments/assets/0bc2f2f2-ccb7-461c-9577-8cb51fc67f89" /></a>
 
 
 
