@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img width="2211" height="674" alt="Image" src="https://github.com/user-attachments/assets/cb7f9c5f-2212-4278-8129-5cac1ded2dea" />
 
-&nbsp;<h3 align="center">Contacts</h3>
+<h3 align="center">Contacts</h3>
 
 <p align="center">
   <a href="https://t.me/bulat_vagapov"><img src="https://img.shields.io/badge/telegram-1F4AFE?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
