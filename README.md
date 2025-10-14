@@ -43,7 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/Statisitca-E8E7FA?style=for-the-badge)
 
 ##  Test Artifacts
-<p><a href="#">Web project testing</a> -  functional testing</p>
+<p><a href="#">Web App testing</a> -  functional testing</p>
 <p><a href="#">API Testing</a> - REST via Postman</p>
 <p><a href="#">MySQL</a> - queries and DB validation scripts</p>
 <p><a href="#">Git</a> - basic control commands</p>
