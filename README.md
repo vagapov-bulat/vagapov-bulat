@@ -6,7 +6,8 @@
 <a href="README_RU.md"><img width="25" height="512" alt="image" src="https://github.com/user-attachments/assets/d50dd2b5-765e-47f1-be96-c5f408d83852" /></a>
 </p>
 
-<img width="2211" height="512" alt="Image" src="https://github.com/user-attachments/assets/cb7f9c5f-2212-4278-8129-5cac1ded2dea" />
+<img width="2211" height="565" alt="обложка для github_EN" src="https://github.com/user-attachments/assets/0a865d76-04b2-4a95-bf3c-803f67dde516" />
+
 
 <h3 align="center">Contacts</h3>
 
