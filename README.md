@@ -1,6 +1,17 @@
 ## Hi there 👋
 <img width="2211" height="674" alt="Image" src="https://github.com/user-attachments/assets/cb7f9c5f-2212-4278-8129-5cac1ded2dea" />
 
+&nbsp;<div align="center">Contacts</div>&nbsp;
+
+<p align="center">
+  <a href="https://t.me/bulat_vagapov"><img src="https://img.shields.io/badge/telegram-1F4AFE?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+  <a href="mailto:vagapov.bulat.t@yandex.ru"><img src="https://img.shields.io/badge/email-1F4AFE?style=for-the-badge&logo=maildotru&logoColor=white"></img></a>
+  <a href="https://vagapovbulat.ru"><img src="https://img.shields.io/badge/website-1F4AFE?style=for-the-badge&logo=googlechrome&logoColor=white"></img></a>
+</p>
+
+
+
+
 ## Tech stack
 ![Static Badge](https://img.shields.io/badge/DevTools-E8E7FA?style=for-the-badge&logo=googlechrome&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Postman-E8E7FA?style=for-the-badge&logo=postman&logoColor=20015D)
