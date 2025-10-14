@@ -3,7 +3,7 @@
 <div align="center">Сменить язык readme</div>
 <p align="center">
 <a href="README.md"><img width="25"  alt="image" src="https://github.com/user-attachments/assets/22cbb1db-afcd-4584-b7e6-eea384cb3fce" /></a>
-<a href="#"><img width="25" height="512" alt="image" src="https://github.com/user-attachments/assets/d50dd2b5-765e-47f1-be96-c5f408d83852" /></a>
+<a href="README_RU.md"><img width="25" height="512" alt="image" src="https://github.com/user-attachments/assets/d50dd2b5-765e-47f1-be96-c5f408d83852" /></a>
 </p>
 
 <img width="2211" height="565" alt="обложка для github_Ru" src="https://github.com/user-attachments/assets/02db5e54-c8cf-4d2f-bf67-3ed83077a4e8" />
