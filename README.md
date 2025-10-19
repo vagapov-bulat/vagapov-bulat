@@ -26,8 +26,9 @@
 ## Tech stack
 ![Static Badge](https://img.shields.io/badge/DevTools-E8E7FA?style=for-the-badge&logo=googlechrome&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Postman-E8E7FA?style=for-the-badge&logo=postman&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/SoapUI-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Swagger-E8E7FA?style=for-the-badge&logo=swagger&logoColor=20015D)
+![Static Badge](https://img.shields.io/badge/Kibana-E8E7FA?style=for-the-badge&logo=kibana&logoColor=20015D)
+![Static Badge](https://img.shields.io/badge/SoapUI-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-E8E7FA?style=for-the-badge&logo=androidstudio&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Charles_Proxy-E8E7FA?style=for-the-badge&logo=charles&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Git-E8E7FA?style=for-the-badge&logo=git&logoColor=20015D)
@@ -38,6 +39,7 @@
 ![Static Badge](https://img.shields.io/badge/Sumlime_text-E8E7FA?style=for-the-badge&logo=sublimetext&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Figma-E8E7FA?style=for-the-badge&logo=figma&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Selenium_IDE-E8E7FA?style=for-the-badge&logo=selenium&logoColor=20015D)
+![Static Badge](https://img.shields.io/badge/Katalon_Recorder-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Jira-E8E7FA?style=for-the-badge&logo=jira&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Qase-E8E7FA?style=for-the-badge&logo=qase&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Statisitca-E8E7FA?style=for-the-badge)
