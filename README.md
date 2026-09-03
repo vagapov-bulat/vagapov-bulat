@@ -43,6 +43,7 @@
 
 
 ##  Test Artifacts
+ <a href="https://github.com/vagapov-bulat/smpl-project-ui-tests">Пример моих UI автотестов</a>
 
 
 
