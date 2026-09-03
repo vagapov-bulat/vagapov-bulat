@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://t.me/bulat_vagapov"><img src="https://img.shields.io/badge/telegram-1F4AFE?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
   <a href="mailto:vagapov.bulat.t@yandex.ru"><img src="https://img.shields.io/badge/email-1F4AFE?style=for-the-badge&logo=maildotru&logoColor=white"></img></a>
-  <a href="https://vagapovbulat.ru"><img src="https://img.shields.io/badge/website-1F4AFE?style=for-the-badge&logo=googlechrome&logoColor=white"></img></a>
   <a href="#"><img src="https://img.shields.io/badge/Resume-8A35DA?style=for-the-badge&logo=readme&logoColor=white"></img></a>
 </p>
 
