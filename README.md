@@ -23,6 +23,9 @@
 
 
 ## Tech stack
+![Static Badge](https://img.shields.io/badge/Python-E8E7FA?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/pytest-E8E7FA?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Playwright-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/DevTools-E8E7FA?style=for-the-badge&logo=googlechrome&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Postman-E8E7FA?style=for-the-badge&logo=postman&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Swagger-E8E7FA?style=for-the-badge&logo=swagger&logoColor=20015D)
@@ -34,16 +37,10 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-E8E7FA?style=for-the-badge&logo=mysql&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/HTML-E8E7FA?style=for-the-badge&logo=html5&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/CSS-E8E7FA?style=for-the-badge&logo=css&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/Visual_studio_code-E8E7FA?style=for-the-badge&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/Sumlime_text-E8E7FA?style=for-the-badge&logo=sublimetext&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Figma-E8E7FA?style=for-the-badge&logo=figma&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/Selenium_IDE-E8E7FA?style=for-the-badge&logo=selenium&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/Katalon_Recorder-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Jira-E8E7FA?style=for-the-badge&logo=jira&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Qase-E8E7FA?style=for-the-badge&logo=qase&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/Python-E8E7FA?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/pytest-E8E7FA?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Playwright-E8E7FA?style=for-the-badge)
+
 
 ##  Test Artifacts
 
