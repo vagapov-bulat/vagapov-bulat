@@ -24,7 +24,7 @@
 
 ## Tech stack
 ![Static Badge](https://img.shields.io/badge/Python-E8E7FA?style=for-the-badge&logo=python&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/pytest-E8E7FA?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/pytest-E8E7FA?style=for-the-badge&logo=pytest&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Playwright-E8E7FA?style=for-the-badge&logo=playwright&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/DevTools-E8E7FA?style=for-the-badge&logo=googlechrome&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Postman-E8E7FA?style=for-the-badge&logo=postman&logoColor=20015D)
