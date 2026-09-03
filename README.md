@@ -43,9 +43,8 @@
 
 
 ##  Test Artifacts
-<a href="https://github.com/vagapov-bulat/smpl-project-ui-tests">Пример моих UI автотестов</a>
-<a href="https://github.com/vagapov-bulat/smpl-project-api-tests">Пример моих API автотестов</a>
-
+<p><a href="https://github.com/vagapov-bulat/smpl-project-ui-tests">Пример моих UI автотестов</a></p>
+<p><a href="https://github.com/vagapov-bulat/smpl-project-api-tests">Пример моих API автотестов</a></p>
 
 
 
