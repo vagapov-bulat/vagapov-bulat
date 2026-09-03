@@ -41,8 +41,9 @@
 ![Static Badge](https://img.shields.io/badge/Katalon_Recorder-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Jira-E8E7FA?style=for-the-badge&logo=jira&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Qase-E8E7FA?style=for-the-badge&logo=qase&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/Statisitca-E8E7FA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-E8E7FA?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/pytest-E8E7FA?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Playwright-E8E7FA?style=for-the-badge)
 
 ##  Test Artifacts
 
