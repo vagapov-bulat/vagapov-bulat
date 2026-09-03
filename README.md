@@ -34,7 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/Android_Studio-E8E7FA?style=for-the-badge&logo=androidstudio&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Charles_Proxy-E8E7FA?style=for-the-badge&logo=charles&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Git-E8E7FA?style=for-the-badge&logo=git&logoColor=20015D)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-E8E7FA?style=for-the-badge&logo=mysql&logoColor=20015D)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-E8E7FA?style=for-the-badge&logo=postgresql&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/HTML-E8E7FA?style=for-the-badge&logo=html5&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/CSS-E8E7FA?style=for-the-badge&logo=css&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Figma-E8E7FA?style=for-the-badge&logo=figma&logoColor=20015D)
