@@ -42,13 +42,10 @@
 ![Static Badge](https://img.shields.io/badge/Jira-E8E7FA?style=for-the-badge&logo=jira&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Qase-E8E7FA?style=for-the-badge&logo=qase&logoColor=20015D)
 ![Static Badge](https://img.shields.io/badge/Statisitca-E8E7FA?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-E8E7FA?style=for-the-badge)
 
 ##  Test Artifacts
-<p><a href="#">Web App testing</a> -  functional testing</p>
-<p><a href="#">API Testing</a> - REST via Postman</p>
-<p><a href="#">MySQL</a> - queries and DB validation scripts</p>
-<p><a href="#">Git</a> - basic control commands</p>
-<p><a href="#">Bash</a> - scripts for QA tasks</p>
+
 
 
 
